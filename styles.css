@@ -4,3 +4,15 @@ h1:hover {
 h1 {
     color: black;
 }
+.header{
+    border: 2px solid black;
+    display: inline-block;
+    font-family: "Libertinus Math";
+    font-size: 100px;
+    width: 100px;
+    background: linear-gradient(gray black)
+}
+footer{
+    clear: both;
+    position: sticky;
+}
